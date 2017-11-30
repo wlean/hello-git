@@ -1,0 +1,7 @@
+[content]
+   hello worlld
+[start]
+[0,input,0,13]
+[13,delete,13,1]
+[11,input,13,14]
+[end]
